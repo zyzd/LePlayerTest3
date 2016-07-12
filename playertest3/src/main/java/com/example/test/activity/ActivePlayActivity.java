@@ -19,8 +19,6 @@ public class ActivePlayActivity extends Activity implements OnClickListener {
     private Button startActive;
     private EditText activeIdContent;
     boolean hasSkin;
-    //	String active_id = "A201603280000074";
-    //String active_id = "A2016041800000o8";
     String active_id = "A20160711000028f";
 
     @Override
