@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\studio\\workspace\\LePlayerTest3\\playertest3\\build\\intermediates\\res\\merged\\debug\\drawable-land-hdpi-v4\\letv_skin_v4_pano_cover.png",
+        "source": "C:\\studio\\workspace\\LePlayerTest3\\playertest3\\build\\intermediates\\exploded-aar\\LePlayerTest3\\playerskin\\unspecified\\res\\drawable-land-hdpi-v4\\letv_skin_v4_pano_cover.png"
+    },
+    {
         "merged": "C:\\MyWorkSpace\\LePlayerTest3\\playertest3\\build\\intermediates\\res\\merged\\debug\\drawable-land-hdpi-v4\\letv_skin_v4_pano_cover.png",
         "source": "C:\\MyWorkSpace\\LePlayerTest3\\playertest3\\build\\intermediates\\exploded-aar\\LePlayerTest3\\playerskin\\unspecified\\res\\drawable-land-hdpi-v4\\letv_skin_v4_pano_cover.png"
     }

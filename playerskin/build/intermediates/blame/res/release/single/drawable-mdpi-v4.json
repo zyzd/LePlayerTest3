@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\studio\\workspace\\LePlayerTest3\\playerskin\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "C:\\studio\\workspace\\LePlayerTest3\\playerskin\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
         "merged": "C:\\MyWorkSpace\\LePlayerTest3\\playerskin\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_launcher.png",
         "source": "C:\\MyWorkSpace\\LePlayerTest3\\playerskin\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
     }

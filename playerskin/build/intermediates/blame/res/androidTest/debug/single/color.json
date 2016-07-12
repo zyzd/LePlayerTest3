@@ -2,5 +2,9 @@
     {
         "merged": "C:\\MyWorkSpace\\LePlayerTest3\\playerskin\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\feed_tag_color.xml",
         "source": "C:\\MyWorkSpace\\LePlayerTest3\\playerskin\\build\\intermediates\\bundles\\debug\\res\\color\\feed_tag_color.xml"
+    },
+    {
+        "merged": "C:\\studio\\workspace\\LePlayerTest3\\playerskin\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\feed_tag_color.xml",
+        "source": "C:\\studio\\workspace\\LePlayerTest3\\playerskin\\build\\intermediates\\bundles\\debug\\res\\color\\feed_tag_color.xml"
     }
 ]

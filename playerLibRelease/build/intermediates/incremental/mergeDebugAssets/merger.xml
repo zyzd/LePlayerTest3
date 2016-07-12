@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="C:\MyWorkSpace\LePlayerTest3\playerLibRelease\src\main\assets"/><source path="C:\MyWorkSpace\LePlayerTest3\playerLibRelease\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="C:\MyWorkSpace\LePlayerTest3\playerLibRelease\src\debug\assets"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="C:\studio\workspace\LePlayerTest3\playerLibRelease\src\main\assets"/><source path="C:\studio\workspace\LePlayerTest3\playerLibRelease\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="C:\studio\workspace\LePlayerTest3\playerLibRelease\src\debug\assets"/></dataSet></merger>

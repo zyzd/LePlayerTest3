@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="C:\MyWorkSpace\LePlayerTest3\playerskin\src\main\assets"/><source path="C:\MyWorkSpace\LePlayerTest3\playerskin\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="C:\MyWorkSpace\LePlayerTest3\playerskin\src\release\assets"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="C:\studio\workspace\LePlayerTest3\playerskin\src\main\assets"/><source path="C:\studio\workspace\LePlayerTest3\playerskin\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="C:\studio\workspace\LePlayerTest3\playerskin\src\release\assets"/></dataSet></merger>

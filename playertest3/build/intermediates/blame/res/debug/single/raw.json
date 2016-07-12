@@ -2,5 +2,9 @@
     {
         "merged": "C:\\MyWorkSpace\\LePlayerTest3\\playertest3\\build\\intermediates\\res\\merged\\debug\\raw\\comments.xml",
         "source": "C:\\MyWorkSpace\\LePlayerTest3\\playertest3\\src\\main\\res\\raw\\comments.xml"
+    },
+    {
+        "merged": "C:\\studio\\workspace\\LePlayerTest3\\playertest3\\build\\intermediates\\res\\merged\\debug\\raw\\comments.xml",
+        "source": "C:\\studio\\workspace\\LePlayerTest3\\playertest3\\src\\main\\res\\raw\\comments.xml"
     }
 ]
