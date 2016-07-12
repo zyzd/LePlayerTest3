@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="300dp"
+    android:background="#ff0ee0"
+    android:orientation="vertical"
+    android:layout_height="400dp">
+    <TextView
+        android:layout_width="wrap_content"
+        android:text="弹幕文字大小"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:text="弹幕透明度"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+</LinearLayout>

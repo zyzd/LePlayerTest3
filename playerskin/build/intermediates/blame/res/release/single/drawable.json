@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "C:\\MyWorkSpace\\LePlayerTest3\\playerskin\\build\\intermediates\\res\\merged\\release\\drawable\\edit_bg.9.png",
+        "source": "C:\\MyWorkSpace\\LePlayerTest3\\playerskin\\src\\main\\res\\drawable\\edit_bg.9.png"
+    },
+    {
+        "merged": "C:\\MyWorkSpace\\LePlayerTest3\\playerskin\\build\\intermediates\\res\\merged\\release\\drawable\\title_back_drawable.xml",
+        "source": "C:\\MyWorkSpace\\LePlayerTest3\\playerskin\\src\\main\\res\\drawable\\title_back_drawable.xml"
+    },
+    {
+        "merged": "C:\\MyWorkSpace\\LePlayerTest3\\playerskin\\build\\intermediates\\res\\merged\\release\\drawable\\feed_tag_drawable.xml",
+        "source": "C:\\MyWorkSpace\\LePlayerTest3\\playerskin\\src\\main\\res\\drawable\\feed_tag_drawable.xml"
+    },
+    {
+        "merged": "C:\\MyWorkSpace\\LePlayerTest3\\playerskin\\build\\intermediates\\res\\merged\\release\\drawable\\letv_skin_v4_loading.xml",
+        "source": "C:\\MyWorkSpace\\LePlayerTest3\\playerskin\\src\\main\\res\\drawable\\letv_skin_v4_loading.xml"
+    },
+    {
+        "merged": "C:\\MyWorkSpace\\LePlayerTest3\\playerskin\\build\\intermediates\\res\\merged\\release\\drawable\\letv_skin_v4_large_gesture_progress_vertical_style.xml",
+        "source": "C:\\MyWorkSpace\\LePlayerTest3\\playerskin\\src\\main\\res\\drawable\\letv_skin_v4_large_gesture_progress_vertical_style.xml"
+    },
+    {
+        "merged": "C:\\MyWorkSpace\\LePlayerTest3\\playerskin\\build\\intermediates\\res\\merged\\release\\drawable\\letv_skin_v4_small_seek_bar_2_style.xml",
+        "source": "C:\\MyWorkSpace\\LePlayerTest3\\playerskin\\src\\main\\res\\drawable\\letv_skin_v4_small_seek_bar_2_style.xml"
+    },
+    {
+        "merged": "C:\\MyWorkSpace\\LePlayerTest3\\playerskin\\build\\intermediates\\res\\merged\\release\\drawable\\back_3x.png",
+        "source": "C:\\MyWorkSpace\\LePlayerTest3\\playerskin\\src\\main\\res\\drawable\\back_3x.png"
+    },
+    {
+        "merged": "C:\\MyWorkSpace\\LePlayerTest3\\playerskin\\build\\intermediates\\res\\merged\\release\\drawable\\back_2x.png",
+        "source": "C:\\MyWorkSpace\\LePlayerTest3\\playerskin\\src\\main\\res\\drawable\\back_2x.png"
+    },
+    {
+        "merged": "C:\\MyWorkSpace\\LePlayerTest3\\playerskin\\build\\intermediates\\res\\merged\\release\\drawable\\letv_skin_v4_download_btn_selector.xml",
+        "source": "C:\\MyWorkSpace\\LePlayerTest3\\playerskin\\src\\main\\res\\drawable\\letv_skin_v4_download_btn_selector.xml"
+    },
+    {
+        "merged": "C:\\MyWorkSpace\\LePlayerTest3\\playerskin\\build\\intermediates\\res\\merged\\release\\drawable\\xuankaung_3x.png",
+        "source": "C:\\MyWorkSpace\\LePlayerTest3\\playerskin\\src\\main\\res\\drawable\\xuankaung_3x.png"
+    },
+    {
+        "merged": "C:\\MyWorkSpace\\LePlayerTest3\\playerskin\\build\\intermediates\\res\\merged\\release\\drawable\\letv_skin_v4_wifi_selecter.xml",
+        "source": "C:\\MyWorkSpace\\LePlayerTest3\\playerskin\\src\\main\\res\\drawable\\letv_skin_v4_wifi_selecter.xml"
+    },
+    {
+        "merged": "C:\\MyWorkSpace\\LePlayerTest3\\playerskin\\build\\intermediates\\res\\merged\\release\\drawable\\letv_skin_v4_large_mult_live_action_list_onclick_style.xml",
+        "source": "C:\\MyWorkSpace\\LePlayerTest3\\playerskin\\src\\main\\res\\drawable\\letv_skin_v4_large_mult_live_action_list_onclick_style.xml"
+    },
+    {
+        "merged": "C:\\MyWorkSpace\\LePlayerTest3\\playerskin\\build\\intermediates\\res\\merged\\release\\drawable\\feed_back_title_back_drawable.xml",
+        "source": "C:\\MyWorkSpace\\LePlayerTest3\\playerskin\\src\\main\\res\\drawable\\feed_back_title_back_drawable.xml"
+    },
+    {
+        "merged": "C:\\MyWorkSpace\\LePlayerTest3\\playerskin\\build\\intermediates\\res\\merged\\release\\drawable\\chat_list_button_btn_send_n.9.png",
+        "source": "C:\\MyWorkSpace\\LePlayerTest3\\playerskin\\src\\main\\res\\drawable\\chat_list_button_btn_send_n.9.png"
+    },
+    {
+        "merged": "C:\\MyWorkSpace\\LePlayerTest3\\playerskin\\build\\intermediates\\res\\merged\\release\\drawable\\letv_skin_v4_back_btn_selecter.xml",
+        "source": "C:\\MyWorkSpace\\LePlayerTest3\\playerskin\\src\\main\\res\\drawable\\letv_skin_v4_back_btn_selecter.xml"
+    },
+    {
+        "merged": "C:\\MyWorkSpace\\LePlayerTest3\\playerskin\\build\\intermediates\\res\\merged\\release\\drawable\\iv_dm_pen.png",
+        "source": "C:\\MyWorkSpace\\LePlayerTest3\\playerskin\\src\\main\\res\\drawable\\iv_dm_pen.png"
+    },
+    {
+        "merged": "C:\\MyWorkSpace\\LePlayerTest3\\playerskin\\build\\intermediates\\res\\merged\\release\\drawable\\letv_skin_v4_battery_selecter.xml",
+        "source": "C:\\MyWorkSpace\\LePlayerTest3\\playerskin\\src\\main\\res\\drawable\\letv_skin_v4_battery_selecter.xml"
+    },
+    {
+        "merged": "C:\\MyWorkSpace\\LePlayerTest3\\playerskin\\build\\intermediates\\res\\merged\\release\\drawable\\xuanze_3x.png",
+        "source": "C:\\MyWorkSpace\\LePlayerTest3\\playerskin\\src\\main\\res\\drawable\\xuanze_3x.png"
+    },
+    {
+        "merged": "C:\\MyWorkSpace\\LePlayerTest3\\playerskin\\build\\intermediates\\res\\merged\\release\\drawable\\test.9.png",
+        "source": "C:\\MyWorkSpace\\LePlayerTest3\\playerskin\\src\\main\\res\\drawable\\test.9.png"
+    },
+    {
+        "merged": "C:\\MyWorkSpace\\LePlayerTest3\\playerskin\\build\\intermediates\\res\\merged\\release\\drawable\\tijiao_2x.png",
+        "source": "C:\\MyWorkSpace\\LePlayerTest3\\playerskin\\src\\main\\res\\drawable\\tijiao_2x.png"
+    },
+    {
+        "merged": "C:\\MyWorkSpace\\LePlayerTest3\\playerskin\\build\\intermediates\\res\\merged\\release\\drawable\\tijiao_3x.png",
+        "source": "C:\\MyWorkSpace\\LePlayerTest3\\playerskin\\src\\main\\res\\drawable\\tijiao_3x.png"
+    },
+    {
+        "merged": "C:\\MyWorkSpace\\LePlayerTest3\\playerskin\\build\\intermediates\\res\\merged\\release\\drawable\\xuankaung_2x.png",
+        "source": "C:\\MyWorkSpace\\LePlayerTest3\\playerskin\\src\\main\\res\\drawable\\xuankaung_2x.png"
+    },
+    {
+        "merged": "C:\\MyWorkSpace\\LePlayerTest3\\playerskin\\build\\intermediates\\res\\merged\\release\\drawable\\xuanze_2x.png",
+        "source": "C:\\MyWorkSpace\\LePlayerTest3\\playerskin\\src\\main\\res\\drawable\\xuanze_2x.png"
+    }
+]
